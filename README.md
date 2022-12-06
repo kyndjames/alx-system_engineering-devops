@@ -1,3 +1,1 @@
-#!/bin/bash
-this is for 0x00. Shell, basics.
-
+Create a script that creates an alias
